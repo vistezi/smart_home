@@ -1,0 +1,88 @@
+body{background-image: url(2.png)
+    ;background-repeat: no-repeat;
+background-size: cover;}
+header{display: flex;}
+.head_photo{margin-left: 110px;
+}
+ul{
+    list-style: none;
+    margin-top: 10px;
+    
+    margin-left: 20px;
+    display: flex;
+    color: white;
+    font: 23px Helvetica;
+}
+li{padding: 15px;}
+input{width: 350px;
+height: 30px;
+border-radius: 42px;
+border: white 1px solid;
+outline: none;
+position: relative;
+transition: .3s linear;
+background-color: #641180;
+margin-top: 7%;
+margin-left: 130px;
+
+}
+
+::placeholder{color:white;
+font: 18px Helvetica;}
+.social{margin-top: 1.30%;
+margin-left: 200px;
+}
+.first_block h1{font:50px Helvetica;
+color: white    ;
+margin-left: 200px;
+margin-top: 100px;
+}
+.first_button{width: 150px;
+height: 60px; background-color: rgba(240, 248, 255, 0);
+text-decoration: none; font: 20px Helvetica;
+color:white;
+display: inline-block;
+border-radius:  30px;
+border-color: white;
+margin-left: 300px;
+margin-top: 100px;
+
+}
+.first_button:active{background-color: rgb(255, 255, 255);
+color: black;}
+.first_block img{margin-left:900px ;
+    margin-top: -300px;
+}
+.second_block h1{font:50px Helvetica;
+color: white    ;
+margin-left: 1100px;
+margin-top: -500px;
+}
+.second_button{width: 150px;
+height: 60px; background-color: rgba(240, 248, 255, 0);
+text-decoration: none; font: 20px Helvetica;
+color:white;
+display: inline-block;
+border-radius:  30px;
+border-color: white;
+
+margin-left: 1180px;
+margin-top: 100px;
+
+}
+.second_button:active{background-color: rgb(255, 255, 255);
+color: black;}
+.groupe1{margin-top: 300px;
+    margin-left: 320px;
+}
+.ADVANTAGES{text-align: center;font:38px Helvetica;
+color: white    }
+.groupe2{margin-left: 200px;}
+.first_block p{font:25px Helvetica;
+color: white }
+.second_block p{font:25px Helvetica;
+color: white;
+margin-left: 1000px;}
+
+
+
